@@ -21,7 +21,7 @@ while True:
         elif ending == 'n':
             print('bye:)')
             break
-        
-    except(ValueError,TypeError):
+
+    except(ValueError, TypeError):
         print('please enter a valid number!')
         continue

@@ -4,5 +4,7 @@
     ],
     "python.testing.unittestEnabled": false,
     "python.testing.pytestEnabled": true,
-    "window.zoomLevel": 1
+    "window.zoomLevel": 2,
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
 }
