@@ -1,0 +1,5 @@
+file = open('document.txt','a')
+file2 = open('sample.txt','x')
+print(file.write('Payam Afshari'))
+# print(file.read(10))
+file.close()

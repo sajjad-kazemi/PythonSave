@@ -1,0 +1,3 @@
+In order to get the date string in farsi you need to set the locale to fa_IR. The locale 
+could be specified explicitly upon instantiation of date/datetime instances,
+ or by setting a default locale.Payam AfshariPayam AfshariPayam Afshari
